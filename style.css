@@ -1,0 +1,122 @@
+.container {
+    background-color: #333333;
+}
+.parent {
+    width: 800px;
+    height: 289px;
+    margin: 0 auto;
+    border: 20px solid #DC99F3;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.child {
+    width: 97px;
+    height: 167px;
+    border-radius: 30px;
+    background-color: #D9D9D9;
+    margin-left: 40px;
+}
+
+.title {
+    color: #DC99F3;
+    font-family: Poppins;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 150%;
+    letter-spacing: 0px;
+    text-align: center;    
+}
+.parent2 {
+    width: 800px;
+    height: 289px;
+    margin: 0 auto;
+    border: 20px solid #DC99F3;
+    border-radius: 50px;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    gap: 40px;
+    margin-top: 189px;
+}
+.child2 {
+    width: 97px;
+    height: 167px;
+    border-radius: 30px;
+    background-color: #D9D9D9;
+    margin-right: 40px;
+}
+.parent3 {
+    width: 800px;
+    height: 289px;
+    margin: 0 auto;
+    border: 20px solid #DC99F3;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    margin-top: 189px;
+}
+.child3 {
+    width: 97px;
+    height: 167px;
+    border-radius: 30px;
+    background-color: #D9D9D9;
+}
+.parent4 {
+    width: 800px;
+    height: 289px;
+    margin: 0 auto;
+    border: 20px solid #DC99F3;
+    border-radius: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+    margin-top: 189px;
+}
+.child4 {
+    width: 97px;
+    height: 167px;
+    border-radius: 30px;
+    background-color: #D9D9D9;
+}
+.parent5 {
+    width: 800px;
+    height: 289px;
+    margin: 0 auto;
+    border: 20px solid #DC99F3;
+    border-radius: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 40px;
+    margin-top: 189px;
+}
+.child5 {
+    width: 97px;
+    height: 167px;
+    border-radius: 30px;
+    background-color: #D9D9D9;
+}
+.parent6 {
+    width: 800px;
+    height: 289px;
+    margin: 0 auto;
+    border: 20px solid #DC99F3;
+    border-radius: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 40px;
+    margin-top: 189px;
+}
+.child6 {
+    width: 97px;
+    height: 167px;
+    border-radius: 30px;
+    background-color: #D9D9D9;
+}
